@@ -1,0 +1,3 @@
+[submodule "Allow2java"]
+	path = Allow2java
+	url = git@github.com:Allow2/Allow2java.git
